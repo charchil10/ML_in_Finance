@@ -3,9 +3,8 @@ The Objective is to apply Machine Learning and trading algorithm in Finance.
 
 ## About Repo
 
-|__Initial_setup.ipnyb (jupyternotebook) <br>
-|__Data <br>
-
+|__ Initial_setup.ipnyb (jupyternotebook) <br>
+|__ Data <br>
 &nbsp; &nbsp; |__ DGS1.xls <br>
 &nbsp; &nbsp; |__ DGS2.xls <br>
 &nbsp; &nbsp; |__ DGS30M.xls <br>
